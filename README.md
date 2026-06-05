@@ -16,5 +16,7 @@ This project displays different subscription plans with clean UI cards and moder
 
 - HTML5
 - CSS3
+## Screenshot
 
+![Website Screenshot](./screenshot.png)
 
